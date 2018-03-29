@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNet_API_Boilerplate", "dotNet_API_Boilerplate\dotNet_API_Boilerplate.csproj", "{9889A6D4-D7C5-4255-BE41-E6BD233547CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9889A6D4-D7C5-4255-BE41-E6BD233547CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9889A6D4-D7C5-4255-BE41-E6BD233547CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9889A6D4-D7C5-4255-BE41-E6BD233547CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9889A6D4-D7C5-4255-BE41-E6BD233547CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
